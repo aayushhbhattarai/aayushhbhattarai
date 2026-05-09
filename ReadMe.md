@@ -45,6 +45,4 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/aayushhbhattarai/aayushhbhattarai/snake-output/snake.svg" alt="Snake animation" />
-
 ###
