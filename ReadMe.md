@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">My name is Aayush Bhattarai and I'm a CS major, from Nepal, currently in Germany</h6>
+<h2 align="left">My name is Aayush Bhattarai and I'm a CS major, from Nepal, currently in Germany</h2>
 
 ###
 
