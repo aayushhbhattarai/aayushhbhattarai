@@ -44,6 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+<h2 align="left">Connect with me: </h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aayushbhattarai1/" target="_blank">
