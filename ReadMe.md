@@ -47,7 +47,8 @@
 <h2 align="left">Connect with me: </h2>
 
 <div align="left">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/aayushbhattarai1)
+  <a href="https://www.linkedin.com/in/aayushbhattarai1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
